@@ -44,6 +44,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+disqus_shortname : deckerstar
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
