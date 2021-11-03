@@ -47,7 +47,7 @@ sass:
 repository: hx2y1004/hx2y1004.github.io
 
 comments:
- provder:"utterances"
+ provider:"utterances"
 utterances:
  theme:"github-light"
  issue_term:"pathname"
