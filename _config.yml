@@ -44,6 +44,13 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+repository: hx2y1004/hx2y1004.github.io
+
+comments:
+ provder:"utterances"
+utterances:
+ theme:"github-light"
+ issue_term:"pathname"
 
 # Options
 
