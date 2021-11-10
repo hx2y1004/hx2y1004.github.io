@@ -9,7 +9,7 @@ toc:  true
 
 ---
 
-#빅데이터 분석 환경 정보
+# 빅데이터 분석 환경 정보
 
 분석 소프트웨어 : python(jupyter notebook)
 빅데이터 소프트웨어 : Hadoop, Hive
