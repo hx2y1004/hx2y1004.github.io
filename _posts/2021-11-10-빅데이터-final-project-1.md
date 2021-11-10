@@ -64,6 +64,6 @@ toc:  true
 ## 특장점
 편리한 생활과 과학적 의사결정에 도움을 줄 수 있는 기상서비스로 다양한 기상데이터 분석이 가능하다.
 
-![99592301.1](hx2y1004.github.io/99592301.1.jpeg)
+![99592301 1](https://user-images.githubusercontent.com/73586238/141054350-f66b8fce-6f10-4d4d-8047-6cf9767e8e5b.png)
 
  
