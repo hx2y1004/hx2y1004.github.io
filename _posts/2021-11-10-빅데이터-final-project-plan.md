@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. 빅데이터 Final Project 01
+title: 1. 빅데이터 Final Project Plan
 date: 2021-11-10 13:28 +0800
 last_modified_at: 2021-11-10 15:34:25 +0800
 tags: [빅데이터, 기상데이터, 기후]
@@ -11,7 +11,7 @@ toc:  true
 
 # 빅데이터 Final Project Plan
 
-|*주차*|*내용*|  
+|**주차**|**내용**|  
 |:---:|:---:|
 |11주차|주제 선정 완료 / 빅데이터 아키텍처 정의 / 특장점 정의|
 |12주차|데이터 수집 / 데이터 가공 / 샘플 생성|
