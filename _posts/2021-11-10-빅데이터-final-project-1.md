@@ -31,15 +31,6 @@ toc:  true
 ## 특장점
 편리한 생활과 과학적 의사결정에 도움을 줄 수 있는 기상서비스로 다양한 기상데이터 분석이 가능하다.
 
-![99592301.1](./---
-layout: post
-title: 1. 빅데이터 Final Project 01
-date: 2021-11-10 13:28 +0800
-last_modified_at: 2021-11-10 15:34:25 +0800
-tags: [빅데이터, 기상데이터, 기후]
-toc:  true
-
-
 ![99592301 1](https://user-images.githubusercontent.com/73586238/141054350-f66b8fce-6f10-4d4d-8047-6cf9767e8e5b.png)
 
  
