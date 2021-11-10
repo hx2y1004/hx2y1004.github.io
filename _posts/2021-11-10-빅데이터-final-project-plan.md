@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. 빅데이터 Final Project Plan
+title: 빅데이터 Final Project Plan
 date: 2021-11-10 13:28 +0800
 last_modified_at: 2021-11-10 15:34:25 +0800
 tags: [빅데이터, 기상데이터, 기후]
