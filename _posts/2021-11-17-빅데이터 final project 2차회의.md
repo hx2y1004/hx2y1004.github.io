@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 빅데이터 Final Project 2차 회의
-date: 2021-11-17 18:28 +0800
+date: 2021-11-17 18:07 +0800
 last_modified_at: 2021-11-17 18:34:25 +0800
 tags: [빅데이터, 기상데이터, 기후]
 toc:  true
