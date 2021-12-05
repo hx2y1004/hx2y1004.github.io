@@ -21,7 +21,7 @@ toc:  true
 
 ### 전국 평균 최저 최고 온도 비교
 ![전국 평균 최저 최고 온도](https://user-images.githubusercontent.com/73586238/144744813-c97234fc-ca28-4ae2-b9c9-432d997b5a4b.png)
-전국의 연도별 평균, 최저, 최고 기온 비교이다. 점점 조금 씩 상승하는 것을 볼 수 있다.
+전국의 연도별 평균, 최저, 최고 기온 비교이다. 점점 조금씩 상승하는 것을 볼 수 있다.
 
 ### 서울 강수량 비교
 ![서울 경기 핑균 기온](https://user-images.githubusercontent.com/73586238/144744807-dceaf03c-4de6-47bc-9751-e8d3eae1d980.png)
